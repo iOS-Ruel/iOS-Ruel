@@ -1,7 +1,7 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=Venom&color=gradient&text=🙋🏻‍♂️I'm%20iOS%20Dev%20Ruel📱&height=300&fontColor=eeeeee&fontSize=60&animation=blink)
+![header](https://capsule-render.vercel.app/api?type=Venom&color=gradient&text=🙋🏻‍♂️%20I'm%20iOS%20Dev%20Ruel%20📱&height=300&fontColor=eeeeee&fontSize=60&animation=blink)
 
 - 📚 I've been studying SwiftUI and Combine recently
 - 🔥 I'm always trying to finish my work with all my passion
