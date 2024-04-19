@@ -47,8 +47,8 @@
 
 
 
-<h3 align="center">👩‍💻Ruel's Github Stats 👩‍💻</h3>
-<div align="center">
+<h3 align="right">👩‍💻Ruel's Github Stats 👩‍💻</h3>
+<div align="right">
 
 [![Ruel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ios-Ruel&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
