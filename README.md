@@ -3,10 +3,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=gradient&text=🙋🏻‍♂️%20I'm%20iOS%20Dev%20Ruel%20📱&height=300&fontColor=eeeeee&fontSize=60&animation=blink)
 
-- 📚 I've been studying SwiftUI and Combine recently
-- 🔥 I'm always trying to finish my work with all my passion
-- 👊 I always have a desire to learn
-- 💪🏻 Even if I'm not good enough, I'll do my best
+- 📚 최근에 SwiftUI와 Combine을 공부하고 있습니다.
+- 🔥 항상 열정을 다해 일을 마무리하려고 노력합니다.
+- 👊 항상 배우려는 자세로 스스로의 발전위해 노력합니다.
+- 💪🏻 부족하다고 생각하면서 겸손하게 배움을 즐깁니다.
 
 
   
