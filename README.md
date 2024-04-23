@@ -13,7 +13,7 @@
 ## 🙇🏻‍♂️ Follow Me 🙇🏻‍♂️
 <p align="left ">
   <a href="https://important-card-5e8.notion.site/Study-Library-01ce6a455fdc4723a0b2745896124a07?pvs=4"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
-  <a href="https://www.instagram.com/wusupchung/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/wusupchung/"/></a>
+<!-- <a href="https://www.instagram.com/wusupchung/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/wusupchung/"/></a> -->  
   <a href="mailto:c0407h@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=c0407h@gmail.com"/></a>
 </p>
 
