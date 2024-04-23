@@ -36,7 +36,8 @@
 </p>
 
 ## Professional Experiences
-
+- 2021.08 ~ 2023.10 피피프렌즈 (iOS Developer) 
+- 2021.05 ~ 2021.08 민트팟    (iOS Developer)
 ## Side Project
 
 
