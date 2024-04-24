@@ -35,10 +35,10 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 </p>
 
-## Professional Experiences
+## 🕴️ Professional Experiences
 - 2021.08 ~ 2023.10 피***즈 (iOS Developer) 
 - 2021.05 ~ 2021.08 민**   (iOS Developer)
-## Side Project
+## 🧸 Side Project
 
 
 ## 📚Education
