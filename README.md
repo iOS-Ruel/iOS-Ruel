@@ -1,7 +1,7 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=Venom&color=gradient&text=🙋🏻‍♂️%20I'm%20iOS%20Dev%20Ruel%20📱&height=300&fontColor=eeeeee&fontSize=60&animation=blink)
+![header](https://capsule-render.vercel.app/api?type=Venom&color=gradient&text=🙋🏻‍♂️%20iOS%20Dev%20Ruel%20📱&height=300&fontColor=eeeeee&fontSize=60&animation=blink)
 
 - 📚 최근에 SwiftUI와 Combine을 공부하고 있습니다.
 - 🔥 항상 열정을 다해 일을 마무리하려고 노력합니다.
