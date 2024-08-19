@@ -38,9 +38,11 @@
 ## 🕴️ Professional Experiences
 - 2021.08 ~ 2023.10 피피프렌즈 (iOS Developer) 
 - 2021.05 ~ 2021.08 민트팟   (iOS Developer)
+  
 ## 🧸 Side Project
-
-
+- [KoTextCountLimit](https://github.com/iOS-Ruel/KoTextCountLimit)
+    - 한글 입력 시 글자수 제한 할때 마지막 글자에서 정확한 입력이 안되는 문제를 해결한 간단한 라이브러리
+      
 ## 📚Education
 - 2023.11 ~ 2023.12 <b>앨런 Swift 문법 마스터 스쿨 수료</b>
 - 2020.01 ~ 2020.08 <b>구디아카데미 웹개발 과정 교육 수료</b>
