@@ -34,10 +34,6 @@
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 </p>
-
-## 🕴️ Professional Experiences
-- 2021.08 ~ 2023.10 피피프렌즈 (iOS Developer) 
-- 2021.05 ~ 2021.08 민트팟   (iOS Developer)
   
 ## 🧸 Side Project
 - [KoTextCountLimit](https://github.com/iOS-Ruel/KoTextCountLimit)
